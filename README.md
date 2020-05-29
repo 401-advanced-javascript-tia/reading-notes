@@ -3,7 +3,7 @@
 
 #### At least we aren't dealing with these anymore! 
 
-<img src="IMG/fortrancard.png">
+<img src="IMG/coding.png">
 
 
 ### Table of Contents
@@ -23,5 +23,5 @@
 13. [Reading 13](read-13.md)
 14. [Reading 14a](read-14a.md)
 15. [Reading 14b](read-14b.md)
-    
+
 
