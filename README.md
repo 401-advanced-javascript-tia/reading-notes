@@ -3,7 +3,9 @@
 
 #### At least we aren't dealing with these anymore! 
 
-<img src="IMG/fortrancard.png" alt="Fortran card" width="250" height="100">
+<img src="IMG/fortrancard.png">
+
+
 
 
 
