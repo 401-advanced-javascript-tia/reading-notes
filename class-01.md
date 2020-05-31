@@ -44,5 +44,7 @@
 
 ## Ch 1 - ABC of Programming
 - *Script* is just a series of instructions
-- Define goal, use flowchart to work out tasks
-- 
+- Define goal, break down into tasks, use flowchart to work out steps
+- Each time script runs, it may only use some of instructions
+
+### **Think programmatically!**
