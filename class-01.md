@@ -1,9 +1,9 @@
 ### Pre-Reading Notes Before Class 01
 
 
-## **Duckett HTML**
+### **Duckett HTML**
 
-## Introduction
+### Introduction
 - Skim chapter, read summary, go back through for more explanation
 - Pay close attention to dark grey pgs &amp; code examples
 - *Web servers* host websites (retrieved when you ask browser for webpage)
@@ -13,11 +13,11 @@
 3. That number tells browser what web server to contact for requested website.
 4. Web server sends back page. 
 
-## Ch 1 - Structure
+### Ch 1 - Structure
 - HTML describes structure of page
 - *Elements* include opening and closing tag, *attributes* tell us more with name (lang) and value (en-us)
 
-## Ch 8 - Extra Markup
+### Ch 8 - Extra Markup
 - Add comments to code (highlight comment, cmmd + backslash)
 - *id attribute* can only be used once on page (noted with # in css)
 - *class attribute* can be used on several elemnts, can use more than one on an element (noted with . in css)
@@ -26,23 +26,23 @@
 - *meta* element lives inside head and contains info about the page
 - *Escape characters* list bookmarked
 
-## Ch 17 - HTML5 Layout
+### Ch 17 - HTML5 Layout
 - *article* and *section* elements
 - *hgroup* element **is this commonly used now?**
 - *div* element can be used when there isn't anything else
 
-## Ch 18 - Process & Design
+### Ch 18 - Process & Design
 - **Super important** to understand your target audience, many ways to do so
 - *Sitemaps* to plan structure of site
 - Use *wireframes* to plan site pages (couple sites bookmarked)
 
-## **Duckett JS**
+### **Duckett JS**
 
-## Introduction
+### Introduction
 - Use js to **access** content, **modify** content, **program** instrucitons, **react** to events
 - Name &amp; value pairs
 
-## Ch 1 - ABC of Programming
+### Ch 1 - ABC of Programming
 - *Script* is just a series of instructions
 - Define goal, break down into tasks, use flowchart to work out steps
 - Each time script runs, it may only use some of instructions
