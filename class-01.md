@@ -18,10 +18,13 @@
 - *Elements* include opening and closing tag, *attributes* tell us more with name (lang) and value (en-us)
 
 ## Ch 8 - Extra Markup
-- add comments to code (highlight comment, cmmd + backslash)
+- Add comments to code (highlight comment, cmmd + backslash)
 - *id attribute* can only be used once on page (noted with # in css)
 - *class attribute* can be used on several elemnts, can use more than one on an element (noted with . in css)
-- 
+- Some elements *block* (h1, p, ul, li) and some *inline* (a, img)
+- *iframe* element with src="" height="" width="" to embed google map (for ex) 
+- *meta* element lives inside head and contains info about the page
+- *Escape characters* list bookmarked
 
 ## Ch 17 - HTML5 Layout
 - 
