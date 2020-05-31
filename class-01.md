@@ -32,9 +32,10 @@
 - *div* element can be used when there isn't anything else
 
 ## Ch 18 - Process & Design
-- 
-- 
-- 
+- **Super important** to understand your target audience, many ways to do so
+- *Sitemaps* to plan structure of site
+- Use *wireframes* to plan site pages (couple sites bookmarked)
+
 
 ## **Duckett JS**
 
