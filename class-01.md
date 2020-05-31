@@ -39,7 +39,7 @@
 ## **Duckett JS**
 
 ### Introduction
-- Use js to **access** content, **modify** content, **program** instrucitons, **react** to events
+- Use js to **access** content, **modify** content, **program** instructions, **react** to events
 - Name &amp; value pairs
 
 ### Ch 1 - ABC of Programming
