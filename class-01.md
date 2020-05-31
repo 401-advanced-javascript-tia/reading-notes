@@ -43,6 +43,6 @@
 - Name &amp; value pairs
 
 ## Ch 1 - ABC of Programming
-- 
-- 
+- *Script* is just a series of instructions
+- Define goal, use flowchart to work out tasks
 - 
