@@ -1,12 +1,17 @@
 ### Pre-Reading Notes Before Class 01
 
 
-## *Duckett HTML*
+## **Duckett HTML**
 
 ## Introduction
-- 
-- 
-- 
+- Skim chapter, read summary, go back through for more explanation
+- Pay close attention to dark grey pgs &amp; code examples
+- *Web servers* host websites (retrieved when you ask browser for webpage)
+
+1. Connect to web via ISP. Type web address into browser.
+2. Comp contacts DNS server (*Domain Name System*), returns IP (*Internet Protocol*) address.
+3. That number tells browser what web server to contact for requested website.
+4. Web server sends back page. 
 
 ## Ch 1 - Structure
 - 
@@ -28,7 +33,7 @@
 - 
 - 
 
-## *Duckett JS*
+## **Duckett JS**
 
 ## Introduction
 - 
