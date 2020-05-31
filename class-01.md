@@ -14,8 +14,8 @@
 4. Web server sends back page. 
 
 ## Ch 1 - Structure
-- 
-- 
+- HTML describes structure of page
+- *Elements* include opening and closing tag, *attributes* tell us more
 - 
 
 ## Ch 8 - Extra Markup
