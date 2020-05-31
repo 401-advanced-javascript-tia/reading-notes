@@ -15,7 +15,7 @@
 
 ## Ch 1 - Structure
 - HTML describes structure of page
-- *Elements* include opening and closing tag, *attributes* tell us more
+- *Elements* include opening and closing tag, *attributes* tell us more with name (lang) and value (en-us)
 - 
 
 ## Ch 8 - Extra Markup
