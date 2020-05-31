@@ -36,13 +36,11 @@
 - *Sitemaps* to plan structure of site
 - Use *wireframes* to plan site pages (couple sites bookmarked)
 
-
 ## **Duckett JS**
 
 ## Introduction
-- 
-- 
-- 
+- Use js to **access** content, **modify** content, **program** instrucitons, **react** to events
+- Name &amp; value pairs
 
 ## Ch 1 - ABC of Programming
 - 
