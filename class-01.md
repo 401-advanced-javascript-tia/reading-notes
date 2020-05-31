@@ -27,9 +27,9 @@
 - *Escape characters* list bookmarked
 
 ## Ch 17 - HTML5 Layout
-- 
-- 
-- 
+- *article* and *section* elements
+- *hgroup* element **is this commonly used now?**
+- *div* element can be used when there isn't anything else
 
 ## Ch 18 - Process & Design
 - 
