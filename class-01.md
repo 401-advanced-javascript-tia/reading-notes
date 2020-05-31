@@ -1,7 +1,7 @@
 ### Pre-Reading Notes Before Class 01
 
 
-### **Duckett HTML**
+## **Duckett HTML**
 
 ### Introduction
 - Skim chapter, read summary, go back through for more explanation
@@ -36,7 +36,7 @@
 - *Sitemaps* to plan structure of site
 - Use *wireframes* to plan site pages (couple sites bookmarked)
 
-### **Duckett JS**
+## **Duckett JS**
 
 ### Introduction
 - Use js to **access** content, **modify** content, **program** instrucitons, **react** to events
