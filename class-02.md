@@ -24,5 +24,6 @@
 - *Conditional statement* says what to do in given situation
 - *Comparison operators* for evaluating conditions (bookmarked in browser and book)
 - Operand can be an expression (doesn't have to be 1 value)
+- *Logical operators* and, or, not
 
 [Back to Home](README.md)
