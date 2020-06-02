@@ -26,4 +26,16 @@
 - Operand can be an expression (doesn't have to be 1 value)
 - *Logical operators* and, or, not
 
+### *GIT COMMITS*
+- When making commits, write clear, concise, descriptive commit messages.
+
+1. If writing long description, separate subject from body with blank line
+2. Subject less than 50 characters
+3. Capitalize subject line
+4. Don't end subject line with period
+5. Use imperative mood in subject
+6. Wrap body at 72 characters
+7. Explain *what* and *why* in body
+
+
 [Back to Home](README.md)
