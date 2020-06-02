@@ -8,7 +8,8 @@
 - *Semantic markup* examples are strong, em, blockquote, q, abbr, cite, ins, del, s
 
 ### Ch 10 - Introducing CSS
-- 
+- CSS rules - selectors - declarations - properties - values
+- Best practices to put in a separate document
 
 
 ## **Duckett JS**
