@@ -5,7 +5,7 @@
 ### Ch 2 - Text
 - Sup in tags: It is June 2<sup>nd</sup> 
 - Sub in tags: Carbon Dioxide is CO<sub>2</sub>
-- *Semantic markup* examples are strong, em, blockquote, q
+- *Semantic markup* examples are strong, em, blockquote, q, abbr, cite, ins, del, s
 
 ### Ch 10 - Introducing CSS
 - 
