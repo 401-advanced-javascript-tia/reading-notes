@@ -20,6 +20,9 @@
 - *Arrays* are variables that store more than 1 piece of related info 
 
 ### Ch 4 - Decisions and Loops
-- 
+- Flowcharts can help map out decisions and tasks
+- *Conditional statement* says what to do in given situation
+- *Comparison operators* for evaluating conditions (bookmarked in browser and book)
+- Operand can be an expression (doesn't have to be 1 value)
 
 [Back to Home](README.md)
