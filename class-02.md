@@ -16,7 +16,7 @@
 
 ### Ch 2 - Basic JavaScript Instructions
 - *Variables* used to temporarily store info used in script
-- *Declare* variable by naming it, assign a value
+- *Declare* variable by naming it, assign a value (*undefined* without a value)
 - *Arrays* are variables that store more than 1 piece of related info 
 
 ### Ch 4 - Decisions and Loops
