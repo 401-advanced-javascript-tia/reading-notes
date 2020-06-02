@@ -3,8 +3,9 @@
 ## **Duckett HTML**
 
 ### Ch 2 - Text
-- 
-
+- Sup in tags: It is June 2<sup>nd</sup> 
+- Sub in tags: Carbon Dioxide is CO<sub>2</sub>
+- *Semantic markup* examples are strong, em, blockquote, q
 
 ### Ch 10 - Introducing CSS
 - 
