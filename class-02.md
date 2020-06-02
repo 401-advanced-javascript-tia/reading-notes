@@ -9,6 +9,7 @@
 
 ### Ch 10 - Introducing CSS
 - CSS rules - selectors - declarations - properties - values
+- Cascades based on last rule (if two selectors are identical), specificity, important (!important after property value)
 - Best practices to put in a separate document
 
 
