@@ -12,11 +12,12 @@
 - Cascades based on last rule (if two selectors are identical), specificity, important (!important after property value)
 - Best practices to put in a separate document
 
-
 ## **Duckett JS**
 
 ### Ch 2 - Basic JavaScript Instructions
-- 
+- *Variables* used to temporarily store info used in script
+- *Declare* variable by naming it, assign a value
+- *Arrays* are variables that store more than 1 piece of related info 
 
 ### Ch 4 - Decisions and Loops
 - 
