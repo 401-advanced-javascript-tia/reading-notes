@@ -7,8 +7,7 @@
 ### Table of Contents
 
 1. [Class 01 Pre-Reading](class-01.md)
-2. [Reading 1](read-01.md)
-3. [Reading 2](read-02.md)
+3. [Class 02 Reading](class-02.md)
 4. [Reading 3](read-03.md)
 5. [Reading 4](read-04.md)
 6. [Reading 5](read-05.md)
