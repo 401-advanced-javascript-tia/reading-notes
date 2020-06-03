@@ -56,6 +56,9 @@
 
 ### Ch 4 - Decisions and Loops (from *switch statements*)
 - *Switch statements* compare value against possible outcomes
+  - Variable called *switch value* 
+  - Within code block, each case has value for variable and what code to run if so
+- *Truthy* and *falsey* values aer treated *as if* they are true/false
 - **Loops**
   - *for*
   - *while*
