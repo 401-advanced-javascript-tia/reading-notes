@@ -9,7 +9,20 @@
 ## **Duckett HTML**
 
 ### Ch 3 - Lists
-- 
+- *Ordered lists* where each list item is numbered
+- *Unordered lists* where each list item begins with a bullet point
+- *Definition list* made up of terms and definitons for those terms
+  - \<dl> 
+    - \<dt>Tia\</dt>
+      - \<dd>A human person.\</dd>
+- Can nest lists as well 
+  - \<ul>
+    - \<li>
+    - \<li>
+      - \<ul>
+        - \<li>
+        - \<li>
+
 
 ### Ch 13 - Boxes
 - 
