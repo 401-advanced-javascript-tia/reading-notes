@@ -61,8 +61,13 @@
 - *Truthy* and *falsey* values aer treated *as if* they are true/false
 - **Loops**
   - *for*
+    - used if you need to run the code for specific number times
+    - *initialization*, *condition*, *update*
   - *while*
+    - if you don't know how many times code should run
+    - will continue to run as long as condition is *true*
   - *do while*
+    - similar to while, but will always run *even if* condition evaluates to false
 
 
 
