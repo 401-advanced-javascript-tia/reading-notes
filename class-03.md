@@ -51,11 +51,15 @@
 - CSS3 *border-image* **need to look this up for more deets!**
   - *box-shadow*
   - *border-radius*
-  
+
 ## **Duckett JS**
 
 ### Ch 4 - Decisions and Loops (from *switch statements*)
-- 
+- *Switch statements* compare value against possible outcomes
+- **Loops**
+  - *for*
+  - *while*
+  - *do while*
 
 
 
