@@ -56,20 +56,32 @@
 
 ### Ch 4 - Decisions and Loops (from *switch statements*)
 - *Switch statements* compare value against possible outcomes
+  - Written as a list of options that can be triggered
+  - **If comparing more than 2 things, use switch statement and not if else**
   - Variable called *switch value* 
   - Within code block, each case has value for variable and what code to run if so
 - *Truthy* and *falsey* values aer treated *as if* they are true/false
+
 - **Loops**
+  - FIND SOMETHING YOU WANT TO LOOP, AND THEN BUILD LOOP (dont start in the loop)
   - *for*
-    - used if you need to run the code for specific number times
-    - *initialization*, *condition*, *update*
+    - used if you need to run the code for **specific number times**
+    - *iterator definition*, *continuation condition*, *iteration / update*
+    - for (iterator definiton ; continuation condition ; iteration)
+      - for (var i = 0; i < 100; i++)
+      - i is POTATO
   - *while*
     - if you don't know how many times code should run
     - will continue to run as long as condition is *true*
+    - look up while(true) and it's uses
+    - practical appli ation: 
   - *do while*
     - similar to while, but will always run *even if* condition evaluates to false
+    - happens at least once 
+    - "really good while the while is something strange"
+    - practical application: login form (keeps prompting until log in correctly)
+    
 
-TRUTHY
 
 FALSEY
 0
@@ -77,6 +89,10 @@ null
 undefined
 NaN
 ' '
+
+TRUTHY
+everything else that isn't falsey
+
 
 && and || combine the values and become last valid value or fir invalid (falsey) value
 
@@ -91,6 +107,16 @@ NaN
   - !0 becomes true (becuase 0 is falsey)
   - !10 becomes false (because 10 is a true thing and not flips it)
 
-LOOK AT NOTES FROM DAY 3
+
+
+var firstArray = ['man', 'bear', 'pig'];
+
+alert ( firstArray[1] );
+
+this would give you bear (since arrays start at 0)
+
+## LOOK AT NOTES FROM DAY, holy grail of loops
+
+
 
 [Back to Home](README.md)
