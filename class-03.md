@@ -69,6 +69,28 @@
   - *do while*
     - similar to while, but will always run *even if* condition evaluates to false
 
+TRUTHY
 
+FALSEY
+0
+null
+undefined
+NaN
+' '
+
+&& and || combine the values and become last valid value or fir invalid (falsey) value
+
+&&
+- short circuits on the first falsey thing
+
+||
+- short circuits on the first truthy that it finds
+
+!
+- flipper, makes anything falsey become true and another true become false
+  - !0 becomes true (becuase 0 is falsey)
+  - !10 becomes false (because 10 is a true thing and not flips it)
+
+LOOK AT NOTES FROM DAY 3
 
 [Back to Home](README.md)
