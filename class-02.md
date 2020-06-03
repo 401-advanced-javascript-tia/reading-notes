@@ -1,4 +1,4 @@
-## Reading 02 - June 1
+## Reading 02 - June 1<sup>st</sup>
 
 ## **Duckett HTML**
 

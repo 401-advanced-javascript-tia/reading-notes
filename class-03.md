@@ -1,4 +1,4 @@
-## Reading 03 - DATE
+## Reading 03 - June 2<sup>nd</sup>
 
 Notes from class 02.
 
