@@ -1,6 +1,5 @@
 ## Reading 04 - June 3<sup>rd</sup>
 
-
 ## **Duckett HTML**
 
 ### Ch 4 - Links (p 74-93)
@@ -33,7 +32,6 @@
 - *Floating elements*
   - takes element out of normal flow and positions to far left or right of containing box
 - **z-index property**
-
   
 ## **Duckett JS**
 
