@@ -46,7 +46,7 @@
   - can *return* more than one value using an *array*
 - *Anonymous functions* and *IIFE*
   - *need to add to these notes in class 04, I do not get this!*
-  <!-- add to these notes!! -->
+ 
 - *Local variables* is a variable created *inside* a function
 - *Global variables* are variables created outside a function
 
