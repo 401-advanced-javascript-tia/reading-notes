@@ -40,6 +40,7 @@
 - (Can also use these for each side) border-width , border-style , border-color 
   - can shorthand on one line (border : 3px dotted #0088dd)
   - shorthand for sides too, clockwise order, top right bottom left (padding : 10px 5px 3px 2px)
+    can shorthand further since it will repeat (padding: 10px 50px) 10 on top and bottom and 50 on right and left
 - Can set *margins* to center box (need to set width for box first, otherwise it'd take up full page)
   - *auto* puts equal gaps on each side
 - *Display* property changes inline/block. Other options:
