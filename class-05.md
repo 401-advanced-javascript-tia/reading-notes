@@ -18,12 +18,19 @@
 
 www. photoshop || pixlr || splashup || ipiccy . com
 
+- \<figure\> element to contain img and \<figcaption\>
+
 ### Ch 11 - Color (p 246-263)
-- stuff
+- Color is powerful and can bring site to life!
+  - RGB, RGBA, HSLA, hex codes, or color names
+  - RGBA- A is for opacity
+  - HSLA (hue saturation lightness alpha)
+- Contrast is important (can check this in developer tools)
 
-### Ch 4 - Text (p 264-299)
-- stuff
-
+### Ch 12 - Text (p 264-299)
+- 
+- Pseudo-classes change style of element when user does something (hovers over or clicks on text or visits link)
+- Can adjust space between letters, words, lines of text
 
 
 
