@@ -28,12 +28,26 @@ www. photoshop || pixlr || splashup || ipiccy . com
 - Contrast is important (can check this in developer tools)
 
 ### Ch 12 - Text (p 264-299)
-- 
+- There is a lot to know about typeface terminology!
+  - serif, sans-serif, monospace
+  - ascender, cap height, x height, baseline, descender
+  - weight: light, medium, bold, black
+  - style: normal, italic, oblique
+  - stretch: condensed, regular, extended
+- Typefaces subject to copyright, can use other techniques
+  - Check from Mac to PC
+- Set font size in pixels
+- text-transform to upper or lower case
+- text-decoration for underline and strike
 - Pseudo-classes change style of element when user does something (hovers over or clicks on text or visits link)
+  - :hover
+  - :active
+  - :focus
 - Can adjust space between letters, words, lines of text
-
-
-
+  - line-height
+  - letter-spacing
+  - word-spacing
+- Attribute selectors
 
 
 [Back to Home](README.md)
