@@ -1,4 +1,4 @@
-## Reading 06 - Before class on June 9<sup>th</sup>
+## Reading 06 - Before class on June 8<sup>th</sup>
 
 ## **Duckett HTML**
 
