@@ -12,7 +12,7 @@
 5. [Class 04 Reading](class-04.md)
 6. [Class 05 Reading](class-05.md)
 7. [Class 06 Reading](class-06.md)
-8. [Reading 7](read-07.md)
+8. [Class 07 Reading](class-07.md)
 9. [Reading 9](read-09.md)
 10. [Reading 8](read-08.md)
 11. [Reading 10](read-10.md)
