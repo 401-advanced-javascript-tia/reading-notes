@@ -19,12 +19,19 @@
 - might see old code in tables in html specifying width and borders, you use CSS for thst now
 
 
-
-
 ## **Duckett JS**
 
 ### Ch 3 - Functions, Methods, and Objects (p 106-144)
-- 
+- **Object** is a series of variables and functions to represent something
+  - *Variables* known as *properties* of the object
+  - *Functions* are knows as *methods* of the object
+- JavaScript has built in objects, their *properties* and *methods* offer functionaly to help write scripts
+  - String
+  - Number
+  - Math
+  - Date
+
+- Arrays + Objects = \<3
 
 
 
