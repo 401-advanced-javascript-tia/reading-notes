@@ -25,11 +25,21 @@
 - **Object** is a series of variables and functions to represent something
   - *Variables* known as *properties* of the object
   - *Functions* are knows as *methods* of the object
+- Can delete a property with *delete* keyword
 - JavaScript has built in objects, their *properties* and *methods* offer functionaly to help write scripts
+  - Constructor functions start with capital letters
   - String
   - Number
   - Math
   - Date
+
+  Math Objects:
+
+Mat.round(): rounds to nearest int
+Math.sqrt(n): returns square roots of positives
+Math.ceil(): rounds up to nearest int
+Math.floor(): rounds down to nearest int
+Math.random(): generates a number between [0,1)
 
 - Arrays + Objects = \<3
 
