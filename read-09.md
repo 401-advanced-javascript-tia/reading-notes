@@ -1,4 +1,4 @@
-## Reading 09 - June 10<sup>th</sup>
+## Reading 09 - June 9<sup>th</sup>
 
 ## **Duckett HTML**
 
