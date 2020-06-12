@@ -43,6 +43,18 @@
 - *Event delegation*
   - Monitor for events that happen on all children of an element
 
-- **Take more notes here during lecture!**
+#### Notes from class
+
+
+1. you need a target
+2. you need to add an event listener to that target
+  - listener need a type of event to listen to
+  - need a function that the listener can call whenever the event happens
+
+
+- function names for things that handle events start with handle
+  - function handleMouseOverDiv
+#### Book has page for heaps of event types
+
 
 [Back to Home](README.md)
