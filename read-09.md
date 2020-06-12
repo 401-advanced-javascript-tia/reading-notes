@@ -48,13 +48,28 @@
 
 1. you need a target
 2. you need to add an event listener to that target
-  - listener need a type of event to listen to
-  - need a function that the listener can call whenever the event happens
+  - 2a. listener need a type of event to listen to
+  - 2b. need a function that the listener can call whenever the event happens
 
+- an Event object will be passed into the callback function, if you define a parameter (potato) for it, you can use it
 
 - function names for things that handle events start with handle
   - function handleMouseOverDiv
 #### Book has page for heaps of event types
+
+#### Form Submits
+1. you need a target
+2. you need to add an event listener to that target
+  - 2a. listener need a type of event to listen to
+  - 2b. need a function that the listener can call whenever the event happens
+3. **prevent the default behavior of the submit, which is the page refresh- requires an event parameter**
+  - potatoEvent.preventDefault();
+  - THIS SHOULD BE THE FIRST LINE OF EVERY FORM SUBMIT, FOR NOW
+  - to prevents the page refresh when you press enter, which is something specific to forms
+
+##### Important Things to Keep in Mind
+  1. Figure out how to get data out of forms
+  2. If you have data, can you pass it through a contructor?
 
 
 [Back to Home](README.md)
