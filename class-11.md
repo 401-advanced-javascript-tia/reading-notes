@@ -43,7 +43,14 @@
 
 
 ### MDN article on Audio and Visual Elements
-- 
+- \<video\> and \<audio\> elements let us embed vid and audio into web pages
+- *controls* attribute
+  - hide native controls by removings *controls* attribute
+  - program your owm with html, css, js
+- HTMLMediaElement API
+
+- Can use JavaScript to randomize the starting point of a song
+- (More notes during lecture)
 
 
 [Back to Home](README.md)
