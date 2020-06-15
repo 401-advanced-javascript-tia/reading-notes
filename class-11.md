@@ -48,9 +48,15 @@
   - hide native controls by removings *controls* attribute
   - program your owm with html, css, js
 - HTMLMediaElement API
+- Lots of attribute elements to use on videos
 
 - Can use JavaScript to randomize the starting point of a song
 - (More notes during lecture)
+
+
+#### Internet Deprecation
+- caniuse.com
+- there is a type of job in tech where you convert deprecated code into modern code
 
 
 [Back to Home](README.md)
