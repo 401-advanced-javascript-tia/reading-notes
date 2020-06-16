@@ -41,7 +41,6 @@
 - Lots of companies have tools to prevent you from having to do some things from scratch
 
 
-
 ### MDN article on Audio and Visual Elements
 - \<video\> and \<audio\> elements let us embed vid and audio into web pages
 - *controls* attribute
