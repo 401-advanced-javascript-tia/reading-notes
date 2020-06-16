@@ -30,6 +30,11 @@
   - Will run either way, whether try block succeeded or failed
 - Pg 484 for **debugging tips** and **common errors**
 
+### Helpful hints
+
+- If getting the error about missing curly bracket, put one at the bottom and then go up to find it's partner, to find the place youre really missing the curly bracket
+
+- *NaN* - keep tracing code back until you find where its undefined 
 
 
 [Back to Home](README.md)
