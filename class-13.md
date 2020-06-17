@@ -28,6 +28,27 @@
 - Indexed Database API (formerly WebSimpleDB), known as IndexedDB
   - is this implemented yet? time of writing was 2011!
 
+## CLASS NOTES
 
+- we will store things in local storage
+- local storage is unique to your machine
+- local storage is unique to your browser
+- its a secure way for the browser to store info on your harddrive
+- other websites cant access each others local storage
+
+#### has two methods
+- getter and setter
+  - these are functions that save and retrieve data
+- setItem() takes two arguments
+  - the key (or variable name), and the value
+
+#### Steps for storage of an object
+1. stringify the object (the right way) with JSON.stringify()
+2. store the stringy object in local storage with localStorage.setItem
+
+3. a) get item from local storage with localStorage.getItem()
+3. b) unStringify the object, hydrate the dehydrated object with JSON.parse()
+
+- representation of the object in readable format (in "dehydrated" form, it doesnt actually behave like an object), its possible to change it back to object version (reconstituting)
 
 [Back to Home](README.md)
