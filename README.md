@@ -18,7 +18,7 @@
 11. [Class 10 Reading](class-10.md)
 12. [Class 11 Reading](class-11.md)
 13. [Class 12 Reading](class-12.md)
-14. [Reading 13](read-13.md)
+14. [Class 13 Reading](class-13.md)
 15. [Reading 14a](read-14a.md)
 16. [Reading 14b](read-14b.md)
 
