@@ -6,6 +6,7 @@
 
 ### Table of Contents
 
+## 201 
 1. [Class 01 Pre-Reading](class-01.md)
 3. [Class 02 Reading](class-02.md)
 4. [Class 03 Reading](class-03.md)
@@ -22,4 +23,9 @@
 15. [Reading 14a](read-14a.md)
 16. [Reading 14b](read-14b.md)
 
-
+##301
+1. [Class 01 Reading - RWD, Floats, Grids](301-reading-1.md)
+2. [Class 02 Reading - ](301-reading-2.md)
+3. [Class 03 Reading - ](301-reading-3.md)
+4. [Class 04 Reading - ](301-reading-4.md)
+5. [Class 05 Reading - ](301-reading-5.md)
