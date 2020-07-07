@@ -1,8 +1,25 @@
 ## July 7<sup>th</sup>
 
-### JavaScript & jQuery
+### JavaScript & jQuery, pg 293-301, 306-331, 354-357
 
-- Notes
+- jQuery: simple way to do JavaScript
+  - "Write less, do more"
+- Add as script to HTML page
+- Function lets you find element in page and then creates an object
+- Does something with that element using jQuery methods
+  - $('li.hot').addClass('complete');
+- It's cross-browser compatible!
+  - Uses *feature detection* to find best way to accomplish task
+- **(See physical notes from pre-work jQuery assignment for various jQuery methods)**
+- jQuery selection is created, stores reference to corresponding nodes in DOM tree
+- Store reference to jQuery object in variable
+  - these variable names often start with $
+- *Implicit iteration* is ability to update all elements in jQuery selection
+- Can *chain* multiple methods to selection
+- .ready() method checks that page is ready to work with
+  - can still use this eveb if script tag is at bottom of html
+- Can use CDN to access jQuery, should incluce fallback version
+- Always include script tags at end of HTML
 
 
 ### 6 Reasons for Pair Programming
