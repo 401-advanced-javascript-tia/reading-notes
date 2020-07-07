@@ -45,3 +45,9 @@ https://www.codefellows.org/blog/6-reasons-for-pair-programming/
 
 6. **Work environment readiness**
 - This is real life, important to practice and gain comfort with it now
+
+
+### jQuery notes from lecture on Tues
+
+- can add data-anything="whatever-you-want" to any tag
+  - like an id but with different syntax, distinguishes between developer and designer (designers use id, and they leave data- alone when they see it because they know its a developer thing)
