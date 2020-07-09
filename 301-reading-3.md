@@ -7,6 +7,13 @@ https://medium.com/@1sherlynn/javascript-templating-language-and-engine-mustache
   - HTML markup with templating tags to insert var or run programming logic 
 - Mustache is a logic-less (becuase there are only tags) template syntax
 
+### Mustache
+- put script tag in head
+  - can put id on it
+  - type="text/x-tmpl-mustache"
+
+
+
 ### A Complete Guide to Flexbox
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - Really good visual examples here! 
