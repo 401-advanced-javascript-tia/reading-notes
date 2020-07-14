@@ -30,7 +30,7 @@
 4. [Class 04 Reading - CSS and Regex](301-reading-4.md)
 5. [Class 05 Reading - Heroku Deployment ](301-reading-5.md)
 6. [Class 06 Reading - What is Node? ](301-reading-6.md)
-7. [Class 07 Reading - ](301-reading-7.md)
+7. [Class 07 Reading - APIs cont ](301-reading-7.md)
 8. [Class 08 Reading - ](301-reading-8.md)
 9. [Class 09 Reading - ](301-reading-9.md)
 10. [Class 10 Reading - ](301-reading-10.md)
