@@ -22,6 +22,15 @@ https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41
 
 https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c
 - Red of error messages is the call stack
+- Reference errors
+  - **Temporal Dead Zone** (TMD) refers to let and const and the fact that there is time between hoisting and declaring and the reference error that occurs when you try to access them in this time
+- Syntax errors
+- Range errors
+- Type errors
+- Console.logs are our friends
+- *debugger* statement
+  - can also set conditional breakpoints
+- Use *try* and *catch*
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors
 - Helpful list of all errors and a link to further explanation
