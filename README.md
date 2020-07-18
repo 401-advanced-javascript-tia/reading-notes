@@ -32,6 +32,8 @@
 6. [Class 06 Reading - What is Node?](301-reading-6.md)
 7. [Class 07 Reading - APIs cont](301-reading-7.md)
 8. [Class 08 Reading - SQL](301-reading-8.md)
-9. [Class 09 Reading - ](301-reading-9.md)
-10. [Class 10 Reading - ](301-reading-10.md)
+9. [Class 09 Reading - Refactoring](301-reading-9.md)
+10. [Class 10 Reading - Call Stack and Debugging](301-reading-10.md)
+10. [Class 11 Reading - ](301-reading-10.md)
+
 
