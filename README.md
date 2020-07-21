@@ -34,6 +34,7 @@
 8. [Class 08 Reading - SQL](301-reading-8.md)
 9. [Class 09 Reading - Refactoring](301-reading-9.md)
 10. [Class 10 Reading - Call Stack and Debugging](301-reading-10.md)
-10. [Class 11 Reading - ](301-reading-10.md)
+11. [Class 11 Reading - EJS](301-reading-11.md)
+12. [Class 12 Reading - EJS Partials](301-reading-12.md)
 
 
