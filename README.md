@@ -35,6 +35,9 @@
 9. [Class 09 Reading - Refactoring](301-reading-9.md)
 10. [Class 10 Reading - Call Stack and Debugging](301-reading-10.md)
 11. [Class 11 Reading - EJS](301-reading-11.md)
-12. [Class 12 Reading - EJS Partials](301-reading-12.md)
+12. [Class 12 Reading - HTML5](301-reading-12.md)
+12. [Class 13 Reading - ](301-reading-13.md)
+12. [Class 14 Reading - ](301-reading-14.md)
+
 
 
