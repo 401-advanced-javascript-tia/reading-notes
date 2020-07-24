@@ -35,9 +35,10 @@
 9. [Class 09 Reading - Refactoring](301-reading-9.md)
 10. [Class 10 Reading - Call Stack and Debugging](301-reading-10.md)
 11. [Class 11 Reading - EJS](301-reading-11.md)
-12. [Class 12 Reading - HTML5](301-reading-12.md)
-12. [Class 13 Reading - ](301-reading-13.md)
-12. [Class 14 Reading - ](301-reading-14.md)
+12. [Class 12 Reading - Partials](301-reading-12.md)
+13. [Class 13 Reading - HTML5 Forms](301-reading-13.md)
+14. [Class 14 Reading - Database Normalization](301-reading-14.md)
+15. [Class 15 Reading - Diversity and Inclusion](301-reading-15.md)
 
 
 
