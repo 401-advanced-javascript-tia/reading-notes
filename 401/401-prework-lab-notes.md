@@ -9,6 +9,7 @@ https://www.youtube.com/watch?v=xLDI7hIgU4o&feature=youtu.be
 - always plan for callback to be the single source where your code is going to run
 
 ## Promises
+https://www.youtube.com/watch?v=4bPdjAerRzQ&feature=youtu.be
 
 - "hey function, plz do your work and when you finish, .then() give ME the data and I'll handle it"
 - runs like a callback but syntax is a bit more inline
@@ -19,3 +20,23 @@ https://www.youtube.com/watch?v=xLDI7hIgU4o&feature=youtu.be
 - if you care about the order, chain them
   - in one then, return something to the next .then in the chain and those things will happen in sequence with themselves (not in sequence with the things around them)
 - a .then is a function that returns a promise, that ultimately with resolve or reject your request 
+
+## Async/Await
+https://www.youtube.com/watch?v=o1B395-3Elg&feature=youtu.be
+
+- "hey javascript, this function is going to be asynchronous. when it runs, I'm going to wait until the long task finishes. and then I'll take care of it inline"
+- another way to work with promises that is inline, same kind of stuff going on in the background
+- an async function retuns a promise. you cannot return the value from an async function
+- asynchronous things will run, they will enter the callback queue in the order in which they complete, not the order in which they were created
+- use a try/catch for errors 
+- await is only valid in an async function 
+- the function that wraps the await needs to have 'async' out front of it
+- can also use these types of functions to fetch remote data
+- Promise.all to collect results if you're worried about things happening at a certain time
+
+
+
+**Callbacks, promises, and async/await are three methods to do asyn operations in JS, each different type of syntax and different set of issues/gotchas. All handle managing the event loop. Don't have to worry about when they come back, just that they do come back.** 
+
+**Whenever you write sa promise, you should practice rewriting it as something asynchronous (async/await)**
+
