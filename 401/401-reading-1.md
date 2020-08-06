@@ -18,6 +18,5 @@ https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-prob
 
 
 ### 5 Whys and 5 Hows
-https://asq.org/quality-resources/five-whys
-
+https://www.mindtools.com/pages/article/newTMC_5W.htm
 - 
