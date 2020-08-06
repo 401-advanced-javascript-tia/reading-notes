@@ -38,5 +38,15 @@ https://www.youtube.com/watch?v=o1B395-3Elg&feature=youtu.be
 
 **Callbacks, promises, and async/await are three methods to do asyn operations in JS, each different type of syntax and different set of issues/gotchas. All handle managing the event loop. Don't have to worry about when they come back, just that they do come back.** 
 
-**Whenever you write sa promise, you should practice rewriting it as something asynchronous (async/await)**
+**Whenever you write a promise, you should practice rewriting it as something asynchronous (async/await)**
+
+
+## ES6 Classes
+https://www.youtube.com/watch?v=9Yc5J3Ap9-4&feature=youtu.be
+
+- using prototype methods on constructors takes up way less memore than creating a function within the constructor
+- syntax of writing a class wtih ES6 is much smoother than doing the same in constructors 
+- pretty powerful tool, especially when it comes to React and Angular
+
+
 
