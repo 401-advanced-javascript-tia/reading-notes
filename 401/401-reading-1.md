@@ -1,78 +1,54 @@
-## Aug 6<sup>th</sup>
+## Aug 9<sup>th</sup>
 
-### Solving Problems
-https://simpleprogrammer.com/solving-problems-breaking-it-down/
+### 1. Why would you want to run JavaScript code outside of a browser?
 
-- Spend the time upfront to plan your approach to solving the problem
-  - Understand the problem
-- Keep it as simple as possible
-- Suggested steps:
-  - !! **Read the problem in whole, twice** !!
-    - could you explain it to someone else?
-  - **Solve it manually with 3 sets sample data**
-    - recognize what your brain is doing to solve it manually
-  - **Optimize manual steps**
-    - is there an easier way to solve the problem?
-  - **Write manual steps as comments**
-  - **Replace comments with real code**
-    - should not involve any problem solving at this point
-    - if struggling, problem wasnt broken down enough in previous steps
-  - **Optimize real code**
-    - take a look and see if there's an easier way
-    - good variable names
-  - *Plan to spend about 70% of time in first 3 steps!*
-  - If problem is big and complex, cut in half and do the above for each half! **divide and conquer!**
+- To run JavaScript code outside of a browser you would need to utilize Node.js. Being able to run JS outside of the browser means we can interact with databases and create APIs! It allows us to do what other languages (like C and Python) were already doing is being able to use that language for outside-the-browser stuff. 
 
-  - In any language, you should know how to do the following in order to approach these problems:
-    - create a list
-    - sort a list or array
-    - create a map or dictionary
-    - loop through a list, or dictionary
-    - parse strings
-    - convert from string to int, int to string, etc
-  
-  - Another resource to improve: https://simpleprogrammer.com/so-you-want-to-become-a-better-programmer-topcoder/
+### 2. What is the difference between a module and a package?
+
+- A module is just a single JavaScript file whereas a package contains one or more modules along with a package.json file that contains information (*metadata*) about that package.  
+
+### 3. What does the node package manager do?
+
+- Node package manager is what we use to be able to utilize the tools/packages of Node.js. It installs them and provides the interface to be able to work with them.   
+
+### 4. Provide code snippets showing 3 different ways to export a function from a node module
+
+```
+module.exports = {};
+```
+
+```
+module.exports = functionName;
+```
+
+```
+module.exports.functionName = functionName;
+```
 
 
-### I Make $1000/hr
-https://medium.com/swlh/pretend-your-time-is-worth-1-000-hour-and-youll-become-100x-more-productive-f04628bb3e6d
-
-- Your time is so valuable, why spend it on dumb stuff like being angry or scrolling social media! 
-- **Busymess isn't a badge of honor, it's a sign of weakness**
-- Be *focused*, not *busy*
-- Do what you do with complete and hard focus... **deep work**
-- If you know how valuable your time is, people will see and respect that as well
-- Say no, weed out the "good" to make room for the "great"
-
-
-### How To Think Like a Programmer
-https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/
-
-- **A more effective way for problem solving**
-- Don't get caught up in the syntax of everything, focus on how to solve the problem
-
-1. Understand the problem. Explain it out loud, listen to yourself. Write it down. Sketch it. Whatever you need to better understand.
-2. Plan the solution and write notes in the comments. 
-3. Divide the problem into easier-to-manage pieces, sub-problems. Solve all the sub problems and connect the dots. 
-4. Stuck? Debug, reassess, research. 
-
-- Struggling means learning
-- Practice and do brain teasers and games to keep sharp!
-- Code challenges here: https://coderbyte.com/
+| **Term**      | **Definition** |
+| ------------- | -------------- |
+| **ecosystem**     | collection of things that are developed and evolve in the same environment       |
+| **Node.js**       | JS runtime. JS running on the server. fast because it uses non-blocking I/O        |
+| **V8 Engine**     | Chrome's runtime JS engine that parses and executes script code. Written in C++        |
+| **module**        | self-contained, single JavaScript unit with functionality. can be used on the server side        |
+| **package**       | bits of reusable code, shared via npm. directory with one or more modules in it and a package.json with metadata about the package     |
+| **node package manager (npm)**   | world's largest software registry, used to share and borrow packages. way to reuse code from other developers, and a way to share your code with them        |
+| **server**        | system that accepts and responds to requests made over a network (receives requests for web file and sends that to the client)       |
+| **environment**   | state of a computer- software, hardware, and running programs       |
+| **interpreter**   | one part of the js engine. translates line by line into something the machine can understand        |
+| **compiler**      | other part of the js engine. the program that translates (compiles) code into something the machine can understand and execute (*bytecode*). it does this ahead of time, as opposed to an interpreter that goes line by line        |
 
 
-### 5 Whys and 5 Hows
-https://www.mindtools.com/pages/article/newTMC_5W.htm
+**Resources:**
+- https://docs.npmjs.com/about-npm/index.html
+- https://www.youtube.com/watch?v=U8XF6AFGqlc&feature=emb_rel_end
+- https://developers.google.com/apps-script/guides/v8-runtime
+- https://stackoverflow.com/questions/20008442/difference-between-a-module-and-a-package-in-node-js#
+- https://www.quora.com/What-exactly-does-running-JavaScript-inside-a-browser-and-outside-of-a-browser-mean
+- https://www.sitepoint.com/understanding-module-exports-exports-node-js/
+- https://www.sitepoint.com/beginners-guide-node-package-manager/
+- https://www.computerhope.com/jargon/s/server.htm
+- https://stackoverflow.com/questions/45171890/what-is-the-syntax-to-export-a-function-from-a-module-in-node-js
 
-- When a problem occurs, get down to the root cause by asking 'why' 5 times
-- "Solution" = "counter-measure"
-  - action seeks to prevent the problem from happening again (vs a solution that deals with a symptom of the problem)
-  - designed to prevent the problem from recurring
-- Suggested way to use 5 Whys Analysis:
-  - Gather a team familiar with problem, designate a facilitator
-  - Define the problem
-  - Ask first why, accept answers grounded in fact (not guessing)
-  - Four more whys
-  - Know when to stop and when an appropriate counter-measure is possible
-  - Address the root cause by discussing and agreeing on a counter-measure
-  - Monitor the measure to see if its preventing root cause from recurring
