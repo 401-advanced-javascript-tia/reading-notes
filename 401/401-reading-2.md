@@ -51,7 +51,7 @@
 | **object-oriented programming (OOP)** | model that organizes software design around objects and focuses on that data rather than functions and logic     |
 | **class**  | template for creating an object   |
 | **prototype**  |special property of a function, a way for an object to inherit properties and methods     |
-| **```super```** | used to access properties and methods on an object's parent    |
+| **```super```** | used to access properties and methods on an object's parent. refers to the constructor in the inheriting class, when dealing with ES6 classes    |
 | **inheritance**  | there are different ways of inheritance, its how a child objects get properties from a parent object   |
 | **constructor** | function that creates an instance of an object   |
 | **instance** | one iteration of an object created with key 'new' from constructor function   |
@@ -72,4 +72,13 @@
 - https://blog.kevinchisholm.com/javascript/difference-between-scope-and-context/
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
 - https://javascript.info/static-properties-methods
-- 
+
+
+### Notes from lecture Tues 08-11-2020
+
+- **Refactoring** is successfully changing the internal structure of code while maintaining external behavior
+- When dealing with inheritance, working with ES6 classes is easier than working with prototype methods 
+- when extending a class, youre saying that is a kind of the original thing (cat is a kind of animal, for ex)
+
+**Testing**
+- test expects a decriptive string of what you're testing, and a function to actually do the test
