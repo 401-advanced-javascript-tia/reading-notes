@@ -45,7 +45,7 @@
 0. [Class 0 Reading - Engineering Topics](401/401-reading-1prework.md)
 1. [Class 01 Reading - Node Ecosystem, TDD, CI/CD](401/401-reading-1.md)
 2. [Class 02 Reading - Classes, Inheritance, Functional Programming](401/401-reading-2.md)
-3. [Class 03 Reading - ________](401/401-reading-3.md)
+3. [Class 03 Reading - Data Modeling & NoSQL Databases](401/401-reading-3.md)
 4. [Class 04 Reading - ________](401/401-reading-4.md)
 5. [Class 05 Reading - ________](401/401-reading-5.md)
 6. [Class 06 Reading - ________](401/401-reading-6.md)
