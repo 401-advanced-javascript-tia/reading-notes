@@ -15,7 +15,7 @@
 
 ### 3. What kind of database is Postgres? What kind of db is MongoDB?
 
-- Postgres is a SQL database and MongoDb is a NoSQL database. 
+- Postgres is a SQL (relational) database and MongoDb is a NoSQL database. 
 
 ### 4. What is Mongoose and why do we need it?
 
@@ -64,4 +64,7 @@
 
 ### Notes from lecture Tues 08-12-2020
 
-- 
+- "NoSQL" could also mean "not only SQL", not just "no"
+- SQL is good for structured data
+- NoSQL is good for document-based databases (just collect a bunch of info and store it somewhere) 
+- ODM = Object Document Modeler
