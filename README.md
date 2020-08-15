@@ -47,7 +47,7 @@
 2. [Class 02 Reading - Classes, Inheritance, Functional Programming](401/401-reading-2.md)
 3. [Class 03 Reading - Data Modeling & NoSQL Databases](401/401-reading-3.md)
 4. [Class 04 Reading - Advanced Mongo/Mongoose](401/401-reading-4.md)
-5. [Class 05 Reading - ________](401/401-reading-5.md)
+5. [Class 05 Reading - Linked Lists](401/401-reading-5.md)
 6. [Class 06 Reading - ________](401/401-reading-6.md)
 7. [Class 07 Reading - ________](401/401-reading-7.md)
 8. [Class 08 Reading - ________](401/401-reading-8.md)
