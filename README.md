@@ -1,4 +1,4 @@
-# Code 201 - Reading Notes
+# Reading Notes
 *This website is a collection of notes from the reading assignments for 201/301/401*
 
 <img src="IMG/coding.png">
