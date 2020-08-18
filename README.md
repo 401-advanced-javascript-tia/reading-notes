@@ -49,7 +49,7 @@
 4. [Class 04 Reading - Advanced Mongo/Mongoose](401/401-reading-4.md)
 5. [Class 05 Reading - Linked Lists](401/401-reading-5.md)
 6. [Class 06 Reading - REST & HTTP](401/401-reading-6.md)
-7. [Class 07 Reading - ________](401/401-reading-7.md)
+7. [Class 07 Reading - Express](401/401-reading-7.md)
 8. [Class 08 Reading - ________](401/401-reading-8.md)
 9. [Class 09 Reading - ________](401/401-reading-9.md)
 10. [Class 10 Reading - ________](401/401-reading-10.md)
