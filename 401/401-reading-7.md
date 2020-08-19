@@ -54,9 +54,15 @@ app.put('/resource/:id')
     - Units: Server Internal Functions
       - Mock any integrations (like data fetching)
     - Integration (re connection to other servers)
+      - tests for something all the way through, see if it performs through the end
       - Really connect to other services (hard dependencies)
     - Acceptance
       - The server might be a dependency of some other test
+
+### Other New Vocab:
+***
+- **Curried middleware**: can take a parameter  
+- **Higher order function**: function that returns another function, and/or takes another function as an argument
 
 #### Resources
 - https://expressjs.com/en/guide/using-middleware.html
