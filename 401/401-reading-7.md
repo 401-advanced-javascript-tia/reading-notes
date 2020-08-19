@@ -29,7 +29,7 @@
 
 ### CRUD Operations with REST and Express
 ***
-- CREATE: `app.post('/resource')`
+- CREATE: `app.post('/resource')``
 app.post('/resource')
 - READ: `app.get('/resource')`
 app.get('/resource')
