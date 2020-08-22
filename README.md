@@ -52,7 +52,7 @@
 7. [Class 07 Reading - Express](401/401-reading-7.md)
 8. [Class 08 Reading - Express Routing & Connected API](401/401-reading-8.md)
 9. [Class 09 Reading - API Server](401/401-reading-9.md)
-10. [Class 10 Reading - ________](401/401-reading-10.md)
+10. [Class 10 Reading - Stacks & Queues](401/401-reading-10.md)
 11. [Class 11 Reading - ________](401/401-reading-11.md)
 12. [Class 12 Reading - ________](401/401-reading-12.md)
 13. [Class 13 Reading - ________](401/401-reading-13.md)
