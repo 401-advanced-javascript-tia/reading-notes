@@ -38,10 +38,27 @@
 ***
 - Common method for sending username and pwd in HTTP request
   - Username and pwd joined with **:** and then **base64 encoded** and placed after string **Basic**
+  - **base64: character set that is safe to use**
+    - azAZ09+.  (or maybe its = instead of +?)
+      - a through z lower and upper, 0 through 9, + and . are the 64 characters
+      - "make it work with these!"
   - Resulting full string set to value of Authorization header
   - Server can decode Basic Auth header to get username and pwd
   - Server usually responds to client with validation response (token or key)
 - base64 is **not** encryption, client and server have to use **HTTPS** to protect username and pwd info
+  - 256bit AES encryption is the standard at the moment for HTTPS
+  - "over the wire"
+
+- **Node app**: use node module since methods not built in
+```
+    let base64 = require('base-64');
+
+    let string = 'someusername:P@55w0rD!';
+    let encoded = base64.encode(string); // c29tZXVzZXJuYW1lOlBANTV3MHJEIQ==
+    let decoded = base64.decode(encoded); // someusername:P@55w0rD!
+    Additional Resources
+```
+
 - **Browsers**: `atob` and `btoa` to convert to/from base64 encoding
 ```
     let encoded = window.btoa('someusername:P@55w0rD!')
@@ -61,15 +78,7 @@
     .catch(handleLoginError)
 ```
 
-- **Node app**: use node module since methods not built in
-```
-    let base64 = require('base-64');
 
-    let string = 'someusername:P@55w0rD!';
-    let encoded = base64.encode(string); // c29tZXVzZXJuYW1lOlBANTV3MHJEIQ==
-    let decoded = base64.decode(encoded); // someusername:P@55w0rD!
-    Additional Resources
-```
 
 ### Resources
 - http://dustwell.com/how-to-handle-passwords-bcrypt.html
