@@ -21,8 +21,8 @@
 
 |   **Term**    | **Definition**  |
 | ------------- | ----------- |
-| authentication| process of verifying the identify of a User  |
-| authorization | OAuth is meant for authorization between services  |
+| authentication| when an entity proves an identity. process of verifying the identify of a User  |
+| authorization | when an entity proves a right to access. OAuth is meant for authorization between services  |
 | encryption    | two-way function that requires a key |
 | hashing       | one-way process to create a hash from plain text  |
 | session       | a temporary exchange between communicating devices  |
