@@ -5,7 +5,7 @@
 
 |    **Term**    | **Definition**  |
 | -------------- | ----------- |
-| node           | individual item/data that makes up the data structure |
+| node           | individual item/data that makes up the data structure. **has 3 things**: left child, right child, value (or "data", something that has its payload) |
 | root           | the first/top Node in the tree |
 | left child     | node that is positioned to the left of a root or node  |
 | right child    | node that is positioned to the right of a root or node |
@@ -35,6 +35,8 @@
   - "Perfect" binary tree has max width of **2^(h-1)** where h is height of tree, and height is **log n** where n is number of nodes
 
 ## Binary Search Trees
+- You will never find a value on the left that is bigger than its parent
+  - any value on the right will be bigger than its level match on the left
 - Tree with structure, values smaller than root are placed to the left and larger than root to the right
 - Can search by comparing node youre searching for against root of tree/sub-tree
   - smaller? traverse left
