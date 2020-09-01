@@ -58,6 +58,18 @@
 13. [Class 13 Reading - OAuth cont](401/401-reading-13.md)
 14. [Class 14 Reading - Bearer Auth & Access Control](401/401-reading-14.md)
 15. [Class 15 Reading - Trees](401/401-reading-15.md)
+16. [Class 16 Reading - Event Driven Applications](401/401-reading-16.md) 
+17. [Class 17 Reading - ](401/401-reading-17.md)
+18. [Class 18 Reading - ](401/401-reading-18.md)
+19. [Class 19 Reading - ](401/401-reading-19.md)
+20. [Class 20 Reading - ](401/401-reading-20.md)
+21. [Class 21 Reading - ](401/401-reading-21.md)
+22. [Class 22 Reading - ](401/401-reading-22.md)
+23. [Class 23 Reading - ](401/401-reading-23.md)
+24. [Class 24 Reading - ](401/401-reading-24.md)
+25. [Class 25 Reading - ](401/401-reading-25.md)
+
+
 
 
 
