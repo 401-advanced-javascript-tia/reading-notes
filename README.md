@@ -61,7 +61,7 @@
 16. [Class 16 Reading - Event Driven Applications](401/401-reading-16.md) 
 17. [Class 17 Reading - TCP Servers](401/401-reading-17.md)
 18. [Class 18 Reading - Socket.io](401/401-reading-18.md)
-19. [Class 19 Reading - ](401/401-reading-19.md)
+19. [Class 19 Reading - Message Queues](401/401-reading-19.md)
 20. [Class 20 Reading - ](401/401-reading-20.md)
 21. [Class 21 Reading - ](401/401-reading-21.md)
 22. [Class 22 Reading - ](401/401-reading-22.md)
