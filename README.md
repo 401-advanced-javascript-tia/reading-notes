@@ -62,7 +62,7 @@
 17. [Class 17 Reading - TCP Servers](401/401-reading-17.md)
 18. [Class 18 Reading - Socket.io](401/401-reading-18.md)
 19. [Class 19 Reading - Message Queues](401/401-reading-19.md)
-20. [Class 20 Reading - ](401/401-reading-20.md)
+20. [Class 20 Reading - Component Based UI ](401/401-reading-20.md)
 21. [Class 21 Reading - ](401/401-reading-21.md)
 22. [Class 22 Reading - ](401/401-reading-22.md)
 23. [Class 23 Reading - ](401/401-reading-23.md)
