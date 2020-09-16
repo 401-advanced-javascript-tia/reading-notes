@@ -62,12 +62,19 @@
 17. [Class 17 Reading - TCP Servers](401/401-reading-17.md)
 18. [Class 18 Reading - Socket.io](401/401-reading-18.md)
 19. [Class 19 Reading - Message Queues](401/401-reading-19.md)
-20. [Class 20 Reading - Component Based UI ](401/401-reading-20.md)
-21. [Class 21 Reading - ](401/401-reading-21.md)
-22. [Class 22 Reading - ](401/401-reading-22.md)
-23. [Class 23 Reading - ](401/401-reading-23.md)
-24. [Class 24 Reading - ](401/401-reading-24.md)
-25. [Class 25 Reading - ](401/401-reading-25.md)
+*Midterm Project Week*
+26. [Class 26 Reading - Component Based UI ](401/401-reading-26.md)
+27. [Class 27 Reading - Props and State](401/401-reading-27.md)
+28. [Class 28 Reading - ](401/401-reading-28.md)
+29. [Class 29 Reading - ](401/401-reading-29.md)
+30. [Class 30 Reading - ](401/401-reading-30.md)
+31. [Class 31 Reading - ](401/401-reading-31.md)
+32. [Class 32 Reading - ](401/401-reading-32.md)
+33. [Class 33 Reading - ](401/401-reading-33.md)
+34. [Class 34 Reading - ](401/401-reading-34.md)
+35. [Class 35 Reading - ](401/401-reading-35.md)
+
+
 
 
 
