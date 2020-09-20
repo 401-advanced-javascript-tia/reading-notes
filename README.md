@@ -61,13 +61,13 @@
 16. [Class 16 Reading - Event Driven Applications](401/401-reading-16.md) 
 17. [Class 17 Reading - TCP Servers](401/401-reading-17.md)
 18. [Class 18 Reading - Socket.io](401/401-reading-18.md)
-19. [Class 19 Reading - Message Queues](401/401-reading-19.md)
-*Midterm Project Week*
+19. [Class 19 Reading - Message Queues](401/401-reading-19.md) <br>
+*Midterm Project Week* <br>
 26. [Class 26 Reading - Component Based UI ](401/401-reading-26.md)
 27. [Class 27 Reading - Props and State](401/401-reading-27.md)
-28. [Class 28 Reading - ](401/401-reading-28.md)
+28. [Class 28 Reading - Component Composition](401/401-reading-28.md)
 29. [Class 29 Reading - ](401/401-reading-29.md)
-30. [Class 30 Reading - ](401/401-reading-30.md)
+30. [Class 30 Reading - Hashtables](401/401-reading-30.md)
 31. [Class 31 Reading - ](401/401-reading-31.md)
 32. [Class 32 Reading - ](401/401-reading-32.md)
 33. [Class 33 Reading - ](401/401-reading-33.md)
