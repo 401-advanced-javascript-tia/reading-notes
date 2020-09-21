@@ -3,6 +3,8 @@
 
 **Hooks let you always use functions instead of having to constantly switch between functions, classes, higher-order components, and render props.**
 
+- Enables you to have functional components that do all the things classes do
+
 1. Why do we not need more .html pages in a multi-page React app?
   - We don't need more than the initial index.html page because everything renders dynamically to a root area on that page. It's kind of the essence of React, that different things can render to the same area of a page based on the state of the App. Plus we can "fake" the routes (even making them change in the URL) with a Browser Router so there's no use for more than one .html page!
 2. If we wanted a component to show up on every page, where would we put it and why?
