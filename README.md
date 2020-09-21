@@ -68,7 +68,7 @@
 28. [Class 28 Reading - Component Composition](401/401-reading-28.md)
 29. [Class 29 Reading - ](401/401-reading-29.md)
 30. [Class 30 Reading - Hashtables](401/401-reading-30.md)
-31. [Class 31 Reading - ](401/401-reading-31.md)
+31. [Class 31 Reading - Hooks API](401/401-reading-31.md)
 32. [Class 32 Reading - ](401/401-reading-32.md)
 33. [Class 33 Reading - ](401/401-reading-33.md)
 34. [Class 34 Reading - ](401/401-reading-34.md)
