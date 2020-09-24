@@ -12,8 +12,7 @@
 - Less code! Easier to read and understand.
 
 4. What is wrong with the following code?
-```
-import React, {useState, useEffect} from 'react';
+```import React, {useState, useEffect} from 'react';
 
 function MyComponent(props) {
   const [count, setCount] = useState(0);

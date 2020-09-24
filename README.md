@@ -70,7 +70,7 @@
 30. [Class 30 Reading - Hashtables](401/401-reading-30.md)
 31. [Class 31 Reading - Hooks API](401/401-reading-31.md)
 32. [Class 32 Reading - Custom Hooks](401/401-reading-32.md)
-33. [Class 33 Reading - ](401/401-reading-33.md)
+33. [Class 33 Reading - Context API](401/401-reading-33.md)
 34. [Class 34 Reading - ](401/401-reading-34.md)
 35. [Class 35 Reading - ](401/401-reading-35.md)
 
