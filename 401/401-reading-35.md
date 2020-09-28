@@ -3,6 +3,9 @@
 
 **Non-linear data structure that can be looked at as a collection of `vertices` (or `nodes`) potentially connected by line segments names `edges`.**
 
+**All data structures we've been exposed to up to this point could be represented as graphs**
+
+- Graphs exist in order to hold connections to things, they also exist when the connections hold information also
 
 - **Undirected Graph**: graph where each edge is undirected or bi-directional. Means that it doesn't move in any direction.
 - **Directed Graph (Digraph)**: graph where every edge is directed. Has direction.
@@ -66,7 +69,7 @@
 
 |    **Term**    | **Definition**  |
 | -------------- | ----------- |
-| Vertex |  A vertex, also called a “node”, is a data object that can have zero or more adjacent vertices.|
+| Vertex / Node |  A vertex, also called a “node”, is a data object that can have zero or more adjacent vertices.|
 | Edge | An edge is a connection between two nodes. |
 | Neighbor | The neighbors of a node are its adjacent nodes, i.e., are connected via an edge.|
 | Degree | The degree of a vertex is the number of edges connected to that vertex. |
