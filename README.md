@@ -74,7 +74,7 @@
 34. [Class 34 Reading - ](401/401-reading-34.md)
 35. [Class 35 Reading - Data Structure : Graphs](401/401-reading-35.md)
 36. [Class 36 Reading - Application State with Redux](401/401-reading-36.md)
-37. [Class 37 Reading - ](401/401-reading-37.md)
+37. [Class 37 Reading - Combined Reducers](401/401-reading-37.md)
 38. [Class 38 Reading - ](401/401-reading-38.md)
 39. [Class 39 Reading - ](401/401-reading-39.md)
 40. [Class 40 Reading - ](401/401-reading-40.md)
