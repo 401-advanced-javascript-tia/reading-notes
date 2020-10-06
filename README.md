@@ -79,7 +79,7 @@
 39. [Class 39 Reading - ](401/401-reading-39.md)
 40. [Class 40 Reading - ](401/401-reading-40.md)
 41. [Class 41 Reading - React Native](401/401-reading-41.md)
-42. [Class 42 Reading - ](401/401-reading-42.md)
+42. [Class 42 Reading - Ethics](401/401-reading-42.md)
 43. [Class 43 Reading - ](401/401-reading-43.md)
 44. [Class 44 Reading - ](401/401-reading-44.md)
 45. [Class 45 Reading - ](401/401-reading-45.md)
